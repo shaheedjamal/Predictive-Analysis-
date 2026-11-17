@@ -1,0 +1,6 @@
+{
+  "name": "DrugEfficacy Insight",
+  "description": "Research decision-support platform for predictive analysis of drug efficacy using molecular descriptors and machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

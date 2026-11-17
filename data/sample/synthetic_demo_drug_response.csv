@@ -1,0 +1,121 @@
+record_id,compound_id,smiles,target_id,assay_id,assay_type,organism_or_model,endpoint,value,unit,standard_value,relation,protocol,source
+SYN_REC_0001,SYN-001-A,COc1cc2ncnc(Nc3cccc(C#C)c3)c2cc1OCCOC,EGFR,SYN_ASSAY_EGFR_01,Kinase Binding,Homo sapiens,pIC50,8.2,log10_M,8.2,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0002,SYN-001-B,COc1cc2ncnc(Nc3cccc(C#C)c3)c2cc1OCCOC,EGFR,SYN_ASSAY_EGFR_02,Kinase Binding,Homo sapiens,pIC50,8.481,log10_M,8.481,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0003,SYN-001-C,COc1cc2ncnc(Nc3cccc(C#C)c3)c2cc1OCCOC,EGFR,SYN_ASSAY_EGFR_03,Kinase Binding,HEK293 Cell Line,pIC50,8.118,log10_M,8.118,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0004,SYN-002-A,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,EGFR,SYN_ASSAY_EGFR_01,Kinase Binding,Homo sapiens,pIC50,9.324,log10_M,9.324,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0005,SYN-002-B,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,EGFR,SYN_ASSAY_EGFR_02,Kinase Binding,Homo sapiens,pIC50,9.52,log10_M,9.52,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0006,SYN-002-C,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,EGFR,SYN_ASSAY_EGFR_03,Kinase Binding,HEK293 Cell Line,pIC50,9.068,log10_M,9.068,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0007,SYN-003-A,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,ABL1,SYN_ASSAY_ABL1_01,Cell Viability,Homo sapiens,pIC50,8.562,log10_M,8.562,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0008,SYN-003-B,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,ABL1,SYN_ASSAY_ABL1_02,Cell Viability,Homo sapiens,pIC50,8.707,log10_M,8.707,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0009,SYN-003-C,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,ABL1,SYN_ASSAY_ABL1_03,Cell Viability,HEK293 Cell Line,pIC50,8.239,log10_M,8.239,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0010,SYN-004-A,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,VEGFR2,SYN_ASSAY_VEGFR2_01,Kinase Binding,Homo sapiens,pIC50,8.361,log10_M,8.361,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0011,SYN-004-B,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,VEGFR2,SYN_ASSAY_VEGFR2_02,Kinase Binding,Homo sapiens,pIC50,8.561,log10_M,8.561,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0012,SYN-004-C,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)cc2)ccn1,VEGFR2,SYN_ASSAY_VEGFR2_03,Kinase Binding,HEK293 Cell Line,pIC50,8.173,log10_M,8.173,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0013,SYN-005-A,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,VEGFR2,SYN_ASSAY_VEGFR2_01,Cell Viability,Homo sapiens,pIC50,6.459,log10_M,6.459,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0014,SYN-005-B,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,VEGFR2,SYN_ASSAY_VEGFR2_02,Cell Viability,Homo sapiens,pIC50,6.743,log10_M,6.743,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0015,SYN-005-C,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,VEGFR2,SYN_ASSAY_VEGFR2_03,Cell Viability,HEK293 Cell Line,pIC50,6.418,log10_M,6.418,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0016,SYN-006-A,CC(=O)Oc1ccccc1C(=O)O,PTGS2,SYN_ASSAY_PTGS2_01,Biochemical,Homo sapiens,pIC50,4.855,log10_M,4.855,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0017,SYN-006-B,CC(=O)Oc1ccccc1C(=O)O,PTGS2,SYN_ASSAY_PTGS2_02,Biochemical,Homo sapiens,pIC50,5.133,log10_M,5.133,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0018,SYN-006-C,CC(=O)Oc1ccccc1C(=O)O,PTGS2,SYN_ASSAY_PTGS2_03,Biochemical,HEK293 Cell Line,pIC50,4.765,log10_M,4.765,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0019,SYN-007-A,CC(C)Cc1ccc(C(C)C(=O)O)cc1,PTGS2,SYN_ASSAY_PTGS2_01,Biochemical,Homo sapiens,pIC50,5.961,log10_M,5.961,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0020,SYN-007-B,CC(C)Cc1ccc(C(C)C(=O)O)cc1,PTGS2,SYN_ASSAY_PTGS2_02,Biochemical,Homo sapiens,pIC50,6.151,log10_M,6.151,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0021,SYN-007-C,CC(C)Cc1ccc(C(C)C(=O)O)cc1,PTGS2,SYN_ASSAY_PTGS2_03,Biochemical,HEK293 Cell Line,pIC50,5.696,log10_M,5.696,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0022,SYN-008-A,COc1ccc2cc(C(C)C(=O)O)ccc2c1,PTGS2,SYN_ASSAY_PTGS2_01,Biochemical,Homo sapiens,pIC50,6.005,log10_M,6.005,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0023,SYN-008-B,COc1ccc2cc(C(C)C(=O)O)ccc2c1,PTGS2,SYN_ASSAY_PTGS2_02,Biochemical,Homo sapiens,pIC50,6.149,log10_M,6.149,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0024,SYN-008-C,COc1ccc2cc(C(C)C(=O)O)ccc2c1,PTGS2,SYN_ASSAY_PTGS2_03,Biochemical,HEK293 Cell Line,pIC50,5.684,log10_M,5.684,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0025,SYN-009-A,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,PTGS2,SYN_ASSAY_PTGS2_01,Biochemical,Homo sapiens,pIC50,6.332,log10_M,6.332,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0026,SYN-009-B,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,PTGS2,SYN_ASSAY_PTGS2_02,Biochemical,Homo sapiens,pIC50,6.537,log10_M,6.537,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0027,SYN-009-C,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1,PTGS2,SYN_ASSAY_PTGS2_03,Biochemical,HEK293 Cell Line,pIC50,6.154,log10_M,6.154,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0028,SYN-010-A,Cn1cnc2c1c(=O)n(C)c(=O)n2C,ADORA2A,SYN_ASSAY_ADORA2A_01,Radioligand,Homo sapiens,pIC50,5.453,log10_M,5.453,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0029,SYN-010-B,Cn1cnc2c1c(=O)n(C)c(=O)n2C,ADORA2A,SYN_ASSAY_ADORA2A_02,Radioligand,Homo sapiens,pIC50,5.739,log10_M,5.739,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0030,SYN-010-C,Cn1cnc2c1c(=O)n(C)c(=O)n2C,ADORA2A,SYN_ASSAY_ADORA2A_03,Radioligand,HEK293 Cell Line,pIC50,5.415,log10_M,5.415,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0031,SYN-011-A,Cn1c(=O)c2[nH]cnc2n(C)c1=O,ADORA2A,SYN_ASSAY_ADORA2A_01,Radioligand,Homo sapiens,pIC50,5.317,log10_M,5.317,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0032,SYN-011-B,Cn1c(=O)c2[nH]cnc2n(C)c1=O,ADORA2A,SYN_ASSAY_ADORA2A_02,Radioligand,Homo sapiens,pIC50,5.592,log10_M,5.592,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0033,SYN-011-C,Cn1c(=O)c2[nH]cnc2n(C)c1=O,ADORA2A,SYN_ASSAY_ADORA2A_03,Radioligand,HEK293 Cell Line,pIC50,5.219,log10_M,5.219,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0034,SYN-012-A,CC(=O)Nc1ccc(O)cc1,PTGS2,SYN_ASSAY_PTGS2_01,Biochemical,Mus musculus,pIC50,4.743,log10_M,4.743,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0035,SYN-012-B,CC(=O)Nc1ccc(O)cc1,PTGS2,SYN_ASSAY_PTGS2_02,Biochemical,Mus musculus,pIC50,4.929,log10_M,4.929,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0036,SYN-012-C,CC(=O)Nc1ccc(O)cc1,PTGS2,SYN_ASSAY_PTGS2_03,Biochemical,HEK293 Cell Line,pIC50,4.47,log10_M,4.47,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0037,SYN-013-A,CN(C)C(=N)NC(=N)N,AMPK,SYN_ASSAY_AMPK_01,Cell Viability,Mus musculus,pIC50,3.2,log10_M,3.2,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0038,SYN-013-B,CN(C)C(=N)NC(=N)N,AMPK,SYN_ASSAY_AMPK_02,Cell Viability,Mus musculus,pIC50,3.42,log10_M,3.42,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0039,SYN-013-C,CN(C)C(=N)NC(=N)N,AMPK,SYN_ASSAY_AMPK_03,Cell Viability,HEK293 Cell Line,pIC50,3.02,log10_M,3.02,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0040,SYN-014-A,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,HMGCR,SYN_ASSAY_HMGCR_01,Biochemical,Homo sapiens,pIC50,8.055,log10_M,8.055,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0041,SYN-014-B,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,HMGCR,SYN_ASSAY_HMGCR_02,Biochemical,Homo sapiens,pIC50,8.265,log10_M,8.265,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0042,SYN-014-C,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,HMGCR,SYN_ASSAY_HMGCR_03,Biochemical,HEK293 Cell Line,pIC50,7.887,log10_M,7.887,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0043,SYN-015-A,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,GABRA1,SYN_ASSAY_GABRA1_01,Radioligand,Rattus norvegicus,pIC50,7.439,log10_M,7.439,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0044,SYN-015-B,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,GABRA1,SYN_ASSAY_GABRA1_02,Radioligand,Rattus norvegicus,pIC50,7.727,log10_M,7.727,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0045,SYN-015-C,CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21,GABRA1,SYN_ASSAY_GABRA1_03,Radioligand,HEK293 Cell Line,pIC50,7.403,log10_M,7.403,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0046,SYN-016-A,OC1N=C(c2ccccc2Cl)c2cc(Cl)ccc2NC1=O,GABRA1,SYN_ASSAY_GABRA1_01,Radioligand,Rattus norvegicus,pIC50,7.268,log10_M,7.268,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0047,SYN-016-B,OC1N=C(c2ccccc2Cl)c2cc(Cl)ccc2NC1=O,GABRA1,SYN_ASSAY_GABRA1_02,Radioligand,Rattus norvegicus,pIC50,7.539,log10_M,7.539,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0048,SYN-016-C,OC1N=C(c2ccccc2Cl)c2cc(Cl)ccc2NC1=O,GABRA1,SYN_ASSAY_GABRA1_03,Radioligand,HEK293 Cell Line,pIC50,7.161,log10_M,7.161,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0049,SYN-017-A,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,SLC6A4,SYN_ASSAY_SLC6A4_01,Radioligand,Homo sapiens,pIC50,7.744,log10_M,7.744,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0050,SYN-017-B,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,SLC6A4,SYN_ASSAY_SLC6A4_02,Radioligand,Homo sapiens,pIC50,7.925,log10_M,7.925,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0051,SYN-017-C,CNCCC(Oc1ccc(C(F)(F)F)cc1)c1ccccc1,SLC6A4,SYN_ASSAY_SLC6A4_03,Radioligand,HEK293 Cell Line,pIC50,7.463,log10_M,7.463,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0052,SYN-018-A,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc12,SLC6A4,SYN_ASSAY_SLC6A4_01,Radioligand,Homo sapiens,pIC50,8.08,log10_M,8.08,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0053,SYN-018-B,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc12,SLC6A4,SYN_ASSAY_SLC6A4_02,Radioligand,Homo sapiens,pIC50,8.227,log10_M,8.227,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0054,SYN-018-C,CNC1CCC(c2ccc(Cl)c(Cl)c2)c2ccccc12,SLC6A4,SYN_ASSAY_SLC6A4_03,Radioligand,HEK293 Cell Line,pIC50,7.767,log10_M,7.767,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0055,SYN-019-A,COc1ccc2[nH]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1,ATP4A,SYN_ASSAY_ATP4A_01,Biochemical,Homo sapiens,pIC50,5.949,log10_M,5.949,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0056,SYN-019-B,COc1ccc2[nH]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1,ATP4A,SYN_ASSAY_ATP4A_02,Biochemical,Homo sapiens,pIC50,6.164,log10_M,6.164,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0057,SYN-019-C,COc1ccc2[nH]c(S(=O)Cc3ncc(C)c(OC)c3C)nc2c1,ATP4A,SYN_ASSAY_ATP4A_03,Biochemical,HEK293 Cell Line,pIC50,5.791,log10_M,5.791,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0058,SYN-020-A,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,EGFR,SYN_ASSAY_EGFR_01,Kinase Binding,Homo sapiens,pIC50,9.584,log10_M,9.584,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0059,SYN-020-B,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,EGFR,SYN_ASSAY_EGFR_02,Kinase Binding,Homo sapiens,pIC50,9.82,log10_M,9.82,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0060,SYN-020-C,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,EGFR,SYN_ASSAY_EGFR_03,Kinase Binding,HEK293 Cell Line,pIC50,9.42,log10_M,9.42,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0061,SYN-021-A,COc1cc2ncnc(Nc3ccc(Br)cc3)c2cc1OC,EGFR,SYN_ASSAY_EGFR_01,Kinase Binding,Homo sapiens,pIC50,8.605,log10_M,8.605,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0062,SYN-021-B,COc1cc2ncnc(Nc3ccc(Br)cc3)c2cc1OC,EGFR,SYN_ASSAY_EGFR_02,Kinase Binding,Homo sapiens,pIC50,8.871,log10_M,8.871,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0063,SYN-021-C,COc1cc2ncnc(Nc3ccc(Br)cc3)c2cc1OC,EGFR,SYN_ASSAY_EGFR_03,Kinase Binding,HEK293 Cell Line,pIC50,8.489,log10_M,8.489,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0064,SYN-022-A,COc1cc2ncnc(Nc3cccc(Cl)c3F)c2cc1OCCN1CCCC1,EGFR,SYN_ASSAY_EGFR_01,Kinase Binding,Homo sapiens,pIC50,9.374,log10_M,9.374,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0065,SYN-022-B,COc1cc2ncnc(Nc3cccc(Cl)c3F)c2cc1OCCN1CCCC1,EGFR,SYN_ASSAY_EGFR_02,Kinase Binding,Homo sapiens,pIC50,9.551,log10_M,9.551,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0066,SYN-022-C,COc1cc2ncnc(Nc3cccc(Cl)c3F)c2cc1OCCN1CCCC1,EGFR,SYN_ASSAY_EGFR_03,Kinase Binding,HEK293 Cell Line,pIC50,9.086,log10_M,9.086,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0067,SYN-023-A,O=C1Nc2ccccc2/C1=C/c1ccc[nH]1,VEGFR2,SYN_ASSAY_VEGFR2_01,Cell Viability,Homo sapiens,pIC50,5.756,log10_M,5.756,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0068,SYN-023-B,O=C1Nc2ccccc2/C1=C/c1ccc[nH]1,VEGFR2,SYN_ASSAY_VEGFR2_02,Cell Viability,Homo sapiens,pIC50,5.903,log10_M,5.903,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0069,SYN-023-C,O=C1Nc2ccccc2/C1=C/c1ccc[nH]1,VEGFR2,SYN_ASSAY_VEGFR2_03,Cell Viability,HEK293 Cell Line,pIC50,5.447,log10_M,5.447,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0070,SYN-024-A,Cc1[nH]c(/C=C2\C(=O)Nc3ccc(Cl)cc32)c(C)c1C(=O)O,VEGFR2,SYN_ASSAY_VEGFR2_01,Cell Viability,Mus musculus,pIC50,5.981,log10_M,5.981,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0071,SYN-024-B,Cc1[nH]c(/C=C2\C(=O)Nc3ccc(Cl)cc32)c(C)c1C(=O)O,VEGFR2,SYN_ASSAY_VEGFR2_02,Cell Viability,Mus musculus,pIC50,6.201,log10_M,6.201,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0072,SYN-024-C,Cc1[nH]c(/C=C2\C(=O)Nc3ccc(Cl)cc32)c(C)c1C(=O)O,VEGFR2,SYN_ASSAY_VEGFR2_03,Cell Viability,HEK293 Cell Line,pIC50,5.833,log10_M,5.833,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0073,SYN-025-A,Cc1nn(-c2ccccc2)c(C)c1C(=O)Nc1ccc(F)cc1,PTGS2,SYN_ASSAY_PTGS2_01,Biochemical,Homo sapiens,pIC50,6.609,log10_M,6.609,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0074,SYN-025-B,Cc1nn(-c2ccccc2)c(C)c1C(=O)Nc1ccc(F)cc1,PTGS2,SYN_ASSAY_PTGS2_02,Biochemical,Homo sapiens,pIC50,6.901,log10_M,6.901,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0075,SYN-025-C,Cc1nn(-c2ccccc2)c(C)c1C(=O)Nc1ccc(F)cc1,PTGS2,SYN_ASSAY_PTGS2_03,Biochemical,HEK293 Cell Line,pIC50,6.576,log10_M,6.576,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0076,SYN-026-A,CCc1nn(-c2ccc(S(N)(=O)=O)cc2)cc1-c1ccc(OC)cc1,PTGS2,SYN_ASSAY_PTGS2_01,Biochemical,Mus musculus,pIC50,6.259,log10_M,6.259,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0077,SYN-026-B,CCc1nn(-c2ccc(S(N)(=O)=O)cc2)cc1-c1ccc(OC)cc1,PTGS2,SYN_ASSAY_PTGS2_02,Biochemical,Mus musculus,pIC50,6.522,log10_M,6.522,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0078,SYN-026-C,CCc1nn(-c2ccc(S(N)(=O)=O)cc2)cc1-c1ccc(OC)cc1,PTGS2,SYN_ASSAY_PTGS2_03,Biochemical,HEK293 Cell Line,pIC50,6.135,log10_M,6.135,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0079,SYN-027-A,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,ADORA2A,SYN_ASSAY_ADORA2A_01,Radioligand,Homo sapiens,pIC50,4.481,log10_M,4.481,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0080,SYN-027-B,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,ADORA2A,SYN_ASSAY_ADORA2A_02,Radioligand,Homo sapiens,pIC50,4.653,log10_M,4.653,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0081,SYN-027-C,Nc1ncnc2c1ncn2C1OC(CO)C(O)C1O,ADORA2A,SYN_ASSAY_ADORA2A_03,Radioligand,HEK293 Cell Line,pIC50,4.186,log10_M,4.186,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0082,SYN-028-A,CCn1cnc2c(NCc3ccccc3)ncnc21,ADORA2A,SYN_ASSAY_ADORA2A_01,Radioligand,Rattus norvegicus,pIC50,6.681,log10_M,6.681,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0083,SYN-028-B,CCn1cnc2c(NCc3ccccc3)ncnc21,ADORA2A,SYN_ASSAY_ADORA2A_02,Radioligand,Rattus norvegicus,pIC50,6.83,log10_M,6.83,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0084,SYN-028-C,CCn1cnc2c(NCc3ccccc3)ncnc21,ADORA2A,SYN_ASSAY_ADORA2A_03,Radioligand,HEK293 Cell Line,pIC50,6.377,log10_M,6.377,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0085,SYN-029-A,NS(=O)(=O)c1ccc(NC(=O)c2ccccc2)cc1,CA2,SYN_ASSAY_CA2_01,Biochemical,Homo sapiens,pIC50,4.987,log10_M,4.987,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0086,SYN-029-B,NS(=O)(=O)c1ccc(NC(=O)c2ccccc2)cc1,CA2,SYN_ASSAY_CA2_02,Biochemical,Homo sapiens,pIC50,5.213,log10_M,5.213,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0087,SYN-029-C,NS(=O)(=O)c1ccc(NC(=O)c2ccccc2)cc1,CA2,SYN_ASSAY_CA2_03,Biochemical,HEK293 Cell Line,pIC50,4.849,log10_M,4.849,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0088,SYN-030-A,CC(=O)Nc1nnc(S(N)(=O)=O)s1,CA2,SYN_ASSAY_CA2_01,Biochemical,Homo sapiens,pIC50,3.305,log10_M,3.305,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0089,SYN-030-B,CC(=O)Nc1nnc(S(N)(=O)=O)s1,CA2,SYN_ASSAY_CA2_02,Biochemical,Homo sapiens,pIC50,3.599,log10_M,3.599,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0090,SYN-030-C,CC(=O)Nc1nnc(S(N)(=O)=O)s1,CA2,SYN_ASSAY_CA2_03,Biochemical,HEK293 Cell Line,pIC50,3.273,log10_M,3.273,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0091,SYN-031-A,Cc1nc2ccccc2[nH]1,ATP4A,SYN_ASSAY_ATP4A_01,Biochemical,Homo sapiens,pIC50,5.357,log10_M,5.357,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0092,SYN-031-B,Cc1nc2ccccc2[nH]1,ATP4A,SYN_ASSAY_ATP4A_02,Biochemical,Homo sapiens,pIC50,5.615,log10_M,5.615,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0093,SYN-031-C,Cc1nc2ccccc2[nH]1,ATP4A,SYN_ASSAY_ATP4A_03,Biochemical,HEK293 Cell Line,pIC50,5.223,log10_M,5.223,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0094,SYN-032-A,COc1ccc2nc(Cc3ncc(C)c(OC)c3C)[nH]c2c1,ATP4A,SYN_ASSAY_ATP4A_01,Cell Viability,Mus musculus,pIC50,7.012,log10_M,7.012,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0095,SYN-032-B,COc1ccc2nc(Cc3ncc(C)c(OC)c3C)[nH]c2c1,ATP4A,SYN_ASSAY_ATP4A_02,Cell Viability,Mus musculus,pIC50,7.181,log10_M,7.181,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0096,SYN-032-C,COc1ccc2nc(Cc3ncc(C)c(OC)c3C)[nH]c2c1,ATP4A,SYN_ASSAY_ATP4A_03,Cell Viability,HEK293 Cell Line,pIC50,6.711,log10_M,6.711,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0097,SYN-033-A,O=c1ccc2ccccc2o1,MAOB,SYN_ASSAY_MAOB_01,Biochemical,Homo sapiens,pIC50,5.383,log10_M,5.383,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0098,SYN-033-B,O=c1ccc2ccccc2o1,MAOB,SYN_ASSAY_MAOB_02,Biochemical,Homo sapiens,pIC50,5.535,log10_M,5.535,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0099,SYN-033-C,O=c1ccc2ccccc2o1,MAOB,SYN_ASSAY_MAOB_03,Biochemical,HEK293 Cell Line,pIC50,5.086,log10_M,5.086,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0100,SYN-034-A,CC(=O)c1c(O)c2ccccc2oc1=O,MAOB,SYN_ASSAY_MAOB_01,Biochemical,Rattus norvegicus,pIC50,4.869,log10_M,4.869,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0101,SYN-034-B,CC(=O)c1c(O)c2ccccc2oc1=O,MAOB,SYN_ASSAY_MAOB_02,Biochemical,Rattus norvegicus,pIC50,5.099,log10_M,5.099,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0102,SYN-034-C,CC(=O)c1c(O)c2ccccc2oc1=O,MAOB,SYN_ASSAY_MAOB_03,Biochemical,HEK293 Cell Line,pIC50,4.74,log10_M,4.74,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0103,SYN-035-A,O=c1cc(-c2ccccc2)oc2ccccc12,CYP1B1,SYN_ASSAY_CYP1B1_01,Biochemical,Homo sapiens,pIC50,6.697,log10_M,6.697,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0104,SYN-035-B,O=c1cc(-c2ccccc2)oc2ccccc12,CYP1B1,SYN_ASSAY_CYP1B1_02,Biochemical,Homo sapiens,pIC50,6.992,log10_M,6.992,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0105,SYN-035-C,O=c1cc(-c2ccccc2)oc2ccccc12,CYP1B1,SYN_ASSAY_CYP1B1_03,Biochemical,HEK293 Cell Line,pIC50,6.665,log10_M,6.665,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0106,SYN-036-A,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,CYP1B1,SYN_ASSAY_CYP1B1_01,Cell Viability,Homo sapiens,pIC50,5.503,log10_M,5.503,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0107,SYN-036-B,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,CYP1B1,SYN_ASSAY_CYP1B1_02,Cell Viability,Homo sapiens,pIC50,5.757,log10_M,5.757,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0108,SYN-036-C,O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,CYP1B1,SYN_ASSAY_CYP1B1_03,Cell Viability,HEK293 Cell Line,pIC50,5.36,log10_M,5.36,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0109,SYN-037-A,CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,ESR1,SYN_ASSAY_ESR1_01,Cell Viability,Homo sapiens,pIC50,8.596,log10_M,8.596,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0110,SYN-037-B,CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,ESR1,SYN_ASSAY_ESR1_02,Cell Viability,Homo sapiens,pIC50,8.761,log10_M,8.761,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0111,SYN-037-C,CC/C(=C(\c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1,ESR1,SYN_ASSAY_ESR1_03,Cell Viability,HEK293 Cell Line,pIC50,8.289,log10_M,8.289,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0112,SYN-038-A,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,ESR1,SYN_ASSAY_ESR1_01,Radioligand,Homo sapiens,pIC50,9.027,log10_M,9.027,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0113,SYN-038-B,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,ESR1,SYN_ASSAY_ESR1_02,Radioligand,Homo sapiens,pIC50,9.181,log10_M,9.181,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0114,SYN-038-C,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,ESR1,SYN_ASSAY_ESR1_03,Radioligand,HEK293 Cell Line,pIC50,8.736,log10_M,8.736,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0115,SYN-039-A,CC(C)NCC(O)COc1cccc2ccccc12,ADRB2,SYN_ASSAY_ADRB2_01,Radioligand,Homo sapiens,pIC50,6.433,log10_M,6.433,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0116,SYN-039-B,CC(C)NCC(O)COc1cccc2ccccc12,ADRB2,SYN_ASSAY_ADRB2_02,Radioligand,Homo sapiens,pIC50,6.669,log10_M,6.669,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0117,SYN-039-C,CC(C)NCC(O)COc1cccc2ccccc12,ADRB2,SYN_ASSAY_ADRB2_03,Radioligand,HEK293 Cell Line,pIC50,6.314,log10_M,6.314,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0118,SYN-040-A,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,ADRB2,SYN_ASSAY_ADRB2_01,Radioligand,Mus musculus,pIC50,5.007,log10_M,5.007,=,72h luminescence synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0119,SYN-040-B,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,ADRB2,SYN_ASSAY_ADRB2_02,Radioligand,Mus musculus,pIC50,5.302,log10_M,5.302,=,30m biochemical synthetic benchmark,SYNTHETIC_DEMO_DATASET
+SYN_REC_0120,SYN-040-C,CC(C)NCC(O)COc1ccc(CC(N)=O)cc1,ADRB2,SYN_ASSAY_ADRB2_03,Radioligand,HEK293 Cell Line,pIC50,4.974,log10_M,4.974,=,24h reporter synthetic benchmark,SYNTHETIC_DEMO_DATASET
